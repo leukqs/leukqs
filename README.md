@@ -2,9 +2,9 @@
 
 # Merhaba, Ben Abdullah 👋
 
-### Yazılım Geliştirici
+### Discord Bot Geliştiricisi
 
-Merhaba! Ben Abdullah, yeni projeler ve zorlu görevlerden keyif alan tutkulu bir yazılım geliştiricisiyim.
+Merhaba! Ben Abdullah, yeni bot projeleri ve zorlu yazılımlardan keyif alan tutkulu bir geliştiriciyim.
 
 <br/>
 
