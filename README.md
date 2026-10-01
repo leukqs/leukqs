@@ -1,32 +1,34 @@
 <div align="center">
 
-# Hi there, I am Abdullah 👋
+# Merhaba, Ben Abdullah 👋
 
-### Software Developer
+### Yazılım Geliştirici
 
-Hi, I'm Abdullah, a passionate software developer always looking for new challenges and exciting projects.
+Merhaba! Ben Abdullah, yeni projeler ve zorlu görevlerden keyif alan tutkulu bir yazılım geliştiricisiyim.
 
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/leukas)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leukasxd)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qi5ocbdd7zc2yfgl5hpsy2p22i?si=aa944644dd3e49b1)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=leukqs&color=blueviolet&style=for-the-badge)
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=leukqs&color=blueviolet&style=for-the-badge&label=Ziyaretçi)
 
 <br/>
 
 <details>
-<summary><b>Details ▶</b></summary>
+<summary><b>Detaylar ▶</b></summary>
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leukqs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=leukqs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=tr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leukqs&theme=dark&hide_border=true&layout=compact)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=leukqs&theme=dark&hide_border=true&layout=compact&locale=tr)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leukqs&theme=dark&hide_border=true)
+![GitHub Serisi](https://github-readme-streak-stats.herokuapp.com/?user=leukqs&theme=dark&hide_border=true&locale=tr)
 
 </details>
 
