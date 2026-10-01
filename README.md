@@ -8,7 +8,7 @@ Merhaba! Ben Abdullah, yeni bot projeleri ve zorlu yazılımlardan keyif alan tu
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/leukas)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/WXznub78])
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leukasxd)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qi5ocbdd7zc2yfgl5hpsy2p22i?si=aa944644dd3e49b1)
 
